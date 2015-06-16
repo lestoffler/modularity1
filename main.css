@@ -1,0 +1,160 @@
+.instructor-table {
+	width: 100%;
+	border-collapse: collapse;
+}
+
+.instructor-table tr td {
+	border-bottom: 1px solid gray;
+	padding: 10px;
+	text-align: center;
+}
+
+.instructor-table tr:last-child td {
+	border-bottom: 0;
+}
+
+
+.header-table  {
+	width: 100%;
+	border-collapse: collapse;
+}
+
+.header-table th {
+	font-weight: bold;
+	border-bottom: 1px solid gray;
+	text-align: center;
+	padding-bottom: 20px;
+}
+
+.header-table tbody tr td {
+	border-bottom: 1px solid gray;
+	text-align: center;
+	padding: 20px;
+}
+
+.header-table tr:last-child td {
+	border-bottom: 0;
+}
+
+.stats {
+	border: solid 1px #ccc;
+	border-width: 1px 0;
+	width: 50%;
+}
+
+.large {
+	text-align: center;
+	font-size: 30px;
+	font-weight: bold;
+}
+
+.small {
+	font-size: 10px;
+	color: gray;
+	text-align: center;
+}
+
+.bargraph {
+	border: none;
+}
+
+.bargraph th {
+	font-size: 15px;
+	color: black;
+	margin: 20px;
+	margin-left: 0px;
+	text-align: right;
+}
+
+.bargraph td {
+	color: white;
+	font-size: 15px;
+	line-height: 25px;
+	height: 25px;
+	border-radius: 0 3px 3px 0;
+	padding-left: 5px;
+	width: 100%;
+	padding: 1px 10px;
+}
+
+.bargraph div {
+	background-color: green;
+}
+
+
+
+/*.lightbox {
+	position: fixed;
+	top: 0;
+	bottom: 0;
+	width: 100%;
+	height: 100%;
+	text-align: center;
+	background-color: rgba(0,0,0,.7)
+}*/
+
+.lightbox-container {
+	vertical-align: middle;
+	padding-top: 250px;
+}
+
+.lightbox-text {
+	font-size: 20px;
+	background-color: white;
+	border-radius: 10px;
+	margin: 0 auto;
+	overflow: hidden;
+	padding: 25px;
+	width: 50%;
+	border: 1px solid black;
+}
+
+.media-box {
+	clear: left;
+}
+
+.media-image {
+	float: left;
+	margin: 0 10px 0 10px;
+	}
+
+.media-content {
+	overflow: hidden;
+}
+
+.media-box2 {
+	clear: left;
+}
+
+.media-image2 {
+	float: left;
+	margin: 20px 10px 0 10px;
+}
+
+.media-content2 {
+	overflow: hidden;
+}
+
+.media-box3 {
+	clear: left;
+}
+
+.media-image3 {
+	float: left;
+	margin: 20px 10px 0 10px;
+}
+
+.media-content3 {
+	overflow: hidden;
+}
+
+.nestimage {
+	float: left;
+	margin: 20px 10px 0 10px;
+}
+
+.nestcontent {
+	overflow: hidden;
+}
+
+
