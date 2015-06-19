@@ -109,6 +109,19 @@
 	border: 1px solid black;
 }
 
+.lightbox-button {
+	background-color: red;
+	color: white;
+	font: bold 50% Arial;
+	border: 1px solid black;
+	display: inline-block;
+	padding: 10px 30px;
+	border-radius: 5px;
+	text-decoration: none;
+	font-size: 15px; 
+	float: right;
+}
+
 .media-box {
 	clear: left;
 }
